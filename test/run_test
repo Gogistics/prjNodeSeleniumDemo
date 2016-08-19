@@ -1,0 +1,4 @@
+#!/bin/bash
+
+node test_on_chrome.js
+node test_on_firefox.js
